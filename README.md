@@ -20,7 +20,7 @@ To analyze historical sales trends and forecast the next **6 months** using stat
 - Generated a reliable 6-month forecast to support data-driven business decisions.
 
 ## 📷 Visualization Output
-![Sales Forecast](../03_Screenshots/sales_forecast_plot.png)
+![Sales Forecast](./03_Screenshots/sales_forecast_plot.png)
 
 ## 🚀 Skills Demonstrated
 - **Predictive Modeling** & Time Series Analysis
