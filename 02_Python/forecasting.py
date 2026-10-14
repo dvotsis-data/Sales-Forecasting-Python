@@ -308,12 +308,6 @@ plt.savefig(
     dpi=300
 )
 
-# Also update the existing screenshot used by the README.
-plt.savefig(
-    SCREENSHOTS_DIR / "sales_forecast_plot.png",
-    dpi=300
-)
-
 plt.show()
 
 print("\nSALES FORECASTING ANALYSIS COMPLETE")
