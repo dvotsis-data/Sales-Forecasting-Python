@@ -196,7 +196,6 @@ Sales-Forecasting-Python/
 ├── 03_Screenshots/
 │   ├── 01_model_evaluation.png
 │   ├── 02_final_sales_forecast.png
-│   └── sales_forecast_plot.png
 ├── 04_Output/
 │   ├── forecast_values.csv
 │   ├── model_evaluation_metrics.csv
